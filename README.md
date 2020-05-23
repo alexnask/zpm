@@ -1,4 +1,4 @@
-# Inofficial Package Manager for Zig
+# Unofficial Package Manager for Zig
 
 **DISCLAIMER**:
 This is not an official package manager for Zig. It's just something to bridge the time between *now* and the official package manager release.
